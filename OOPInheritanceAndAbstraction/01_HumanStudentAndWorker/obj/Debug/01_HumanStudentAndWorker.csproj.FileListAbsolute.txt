@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\GitHub\InheritanceAndAbstraction\OOPInheritanceAndAbstraction\01_HumanStudentAndWorker\bin\Debug\01_HumanStudentAndWorker.exe.config
+C:\Users\Laptop\Desktop\GitHub\InheritanceAndAbstraction\OOPInheritanceAndAbstraction\01_HumanStudentAndWorker\bin\Debug\01_HumanStudentAndWorker.exe
+C:\Users\Laptop\Desktop\GitHub\InheritanceAndAbstraction\OOPInheritanceAndAbstraction\01_HumanStudentAndWorker\bin\Debug\01_HumanStudentAndWorker.pdb
+C:\Users\Laptop\Desktop\GitHub\InheritanceAndAbstraction\OOPInheritanceAndAbstraction\01_HumanStudentAndWorker\obj\Debug\01_HumanStudentAndWorker.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Desktop\GitHub\InheritanceAndAbstraction\OOPInheritanceAndAbstraction\01_HumanStudentAndWorker\obj\Debug\01_HumanStudentAndWorker.exe
+C:\Users\Laptop\Desktop\GitHub\InheritanceAndAbstraction\OOPInheritanceAndAbstraction\01_HumanStudentAndWorker\obj\Debug\01_HumanStudentAndWorker.pdb
