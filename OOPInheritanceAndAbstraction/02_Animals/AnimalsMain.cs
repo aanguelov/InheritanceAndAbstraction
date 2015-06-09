@@ -21,7 +21,7 @@ namespace _02_Animals
 
             Console.WriteLine("Average age of dogs: {0}", animals.Where(a => a is Dog).Average(y => y.Age));
             Console.WriteLine("Average age of cats: {0}", animals.Where(a => a is Cat).Average(y => y.Age));
-            Console.WriteLine("Avarage age of frogs: {0}", animals.Where(a=>a is Frog).Average(y=>y.Age));
+            Console.WriteLine("Avarage age of frogs: {0}", animals.Where(a => a is Frog).Average(y => y.Age));
         }
     }
 }

@@ -1,14 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _01_HumanStudentAndWorker
 {
     class HumanStudentAndWorker
     {
-        static void Main(string[] args)
+        static void Main()
         {
             List<Student> students = new List<Student>();
             Student ivan = new Student("Ivan", "Ivanov", 100234);
