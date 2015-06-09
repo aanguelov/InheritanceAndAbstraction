@@ -49,7 +49,7 @@ namespace _01_HumanStudentAndWorker
             allHumans.AddRange(workers);
             var sortedByNames = allHumans
                 .OrderBy(h => h.FirstName)
-                .OrderBy(h => h.LastName).ToList();
+                .ThenBy(h => h.LastName).ToList();
             foreach (Human human in sortedByNames)
             {
                 Console.WriteLine(human);

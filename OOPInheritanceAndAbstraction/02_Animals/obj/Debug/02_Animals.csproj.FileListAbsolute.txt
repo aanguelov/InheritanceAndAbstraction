@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\GitHub\InheritanceAndAbstraction\OOPInheritanceAndAbstraction\02_Animals\bin\Debug\02_Animals.exe.config
+C:\Users\Laptop\Desktop\GitHub\InheritanceAndAbstraction\OOPInheritanceAndAbstraction\02_Animals\bin\Debug\02_Animals.exe
+C:\Users\Laptop\Desktop\GitHub\InheritanceAndAbstraction\OOPInheritanceAndAbstraction\02_Animals\bin\Debug\02_Animals.pdb
+C:\Users\Laptop\Desktop\GitHub\InheritanceAndAbstraction\OOPInheritanceAndAbstraction\02_Animals\obj\Debug\02_Animals.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Desktop\GitHub\InheritanceAndAbstraction\OOPInheritanceAndAbstraction\02_Animals\obj\Debug\02_Animals.exe
+C:\Users\Laptop\Desktop\GitHub\InheritanceAndAbstraction\OOPInheritanceAndAbstraction\02_Animals\obj\Debug\02_Animals.pdb
